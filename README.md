@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Arthur Hinsvark
 
-<!--
-**ajhinsvark/ajhinsvark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Senior Speech Scientist 🔊 at [Rev.AI](https://www.rev.ai/) by day, mad scientist by night
+- Currently doing some AI crowd challenges
 
-Here are some ideas to get you started:
+### Stuff I use often
+🐍 Python  
+🐧 Linux/bash  
+🔧 C++  
+🤖 Transformers  
+📚 SQL  
+🔥 Pytorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### How to reach me
+You can email via the email in my profile or through [LinkedIn](https://www.linkedin.com/in/arthur-hinsvark-37932278/)
